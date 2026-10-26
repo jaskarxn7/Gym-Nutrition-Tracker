@@ -17,4 +17,4 @@ A single-page web application I built to track daily calorie intake, macronutrie
 - LocalStorage API
 
  Live App
-Try it here: 
+Try it here:  https://jaskarxn7.github.io/Gym-Nutrition-Tracker/
